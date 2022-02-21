@@ -1,4 +1,4 @@
-### Hi there 👋
+### Github勉強中 🌱
 
 <!--
 **shi78ge/shi78ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
